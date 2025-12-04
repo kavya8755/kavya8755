@@ -11,7 +11,7 @@
 
 ## 🌟 About Me
 
-- 🔭 I’m currently working as **Lead ML Engineer** with **6+ years** of experience in AI & Data Science  
+- 🔭 I’m currently working as **Lead ML Engineer** with **8+ years** of experience in AI & Data Science  
 - 💡 Exploring **LLMs, Reinforcement Learning, and Multi-modal AI**  
 - 🌱 Currently mastering **LLM Deployment**, **LangChain**, and **MLOps on AWS**  
 - ✍️ I regularly write about Machine Learning and Generative AI  
