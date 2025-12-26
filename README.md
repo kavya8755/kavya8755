@@ -1,7 +1,6 @@
 <!-- Profile ReadMe | GitHub Portfolio -->
 
-<h1 align="center">Hi 👋, I'm Kamish Upadhyay</h1>
-<h3 align="center">🚀 Lead Machine Learning & AI Engineer | Generative AI | Data Science Enthusiast | OSS Contributor</h3>
+<h3 align="center">Lead Machine Learning & AI Engineer | Generative AI | Data Science Enthusiast | OSS Contributor</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=1000kavya&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -9,19 +8,19 @@
 
 ---
 
-## 🌟 About Me
+## About Me
 
-- 🔭 I’m currently working as **Lead AI Engineer** with **8+ years** of experience in AI & Data Science  
-- 💡 Exploring **LLMs, Reinforcement Learning, and Multi-modal AI**  
-- 🌱 Currently mastering **LLM Deployment**, **LangChain**, and **MLOps on AWS**  
-- ✍️ I regularly write about Machine Learning and Generative AI  
-- 👯 Open to collaborate on **GenAI**, **Research Projects**, and **Open Source Contributions**  
-- 🌍 Based in **Bangalore, India** | Open to remote and international roles  
-- 🎯 Career Goal: Become a **Principal AI Scientist** & launch my **own AI startup**
+-  I’m currently working as **Lead AI Engineer** with **8+ years** of experience in AI & Data Science  
+-  Exploring **LLMs, Reinforcement Learning, and Multi-modal AI**  
+-  Currently mastering **LLM Deployment**, **LangChain**, and **MLOps on AWS**  
+-  I regularly write about Machine Learning and Generative AI  
+-  Open to collaborate on **GenAI**, **Research Projects**, and **Open Source Contributions**  
+-  Based in **Bangalore, India** | Open to remote and international roles  
+-  Career Goal: Become a **Principal AI Scientist** & launch my **own AI startup**
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 **Languages**  
 `Python` | `SQL` | `JavaScript` | `Shell`
@@ -40,18 +39,18 @@
 
 ---
 
-## 🧠 Domains of Expertise
+##  Domains of Expertise
 
-- 🤖 Generative AI & Large Language Models (LLMs)
-- 📊 Time Series Forecasting & Anomaly Detection
-- 📦 Recommendation Systems & Ranking Models
-- 📄 NLP: OCR, Text Summarization, Q&A Systems
-- 🎯 Reinforcement Learning & Autonomous Agents
-- 📈 Business Intelligence & Analytics Dashboards
+-  Generative AI & Large Language Models (LLMs)
+-  Time Series Forecasting & Anomaly Detection
+-  Recommendation Systems & Ranking Models
+-  NLP: OCR, Text Summarization, Q&A Systems
+-  Reinforcement Learning & Autonomous Agents
+-  Business Intelligence & Analytics Dashboards
 
 ---
 
-## 🧩 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
@@ -64,7 +63,7 @@
 
 
 
-## 📬 Let's Connect!
+##  Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/1000kavya/)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:1000kavya@gmail.com)
